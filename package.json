@@ -1,0 +1,22 @@
+{
+  "name": "jstransformer-katex",
+  "version": "0.0.1",
+  "description": "KaTeX support for JSTransformers",
+  "main": "index.js",
+  "keywords": [
+    "jstransformer"
+  ],
+  "author": "Andrea Bedini <andrea@andreabedini.com>",
+  "license": "MIT",
+  "dependencies": {
+    "katex": "^0.5.1"
+  },
+  "devDependencies": {
+    "test-jstransformer": "^1.0.1"
+  },
+  "scripts": {
+    "coverage": "test-jstransformer coverage",
+    "test": "test-jstransformer"
+  },
+  "license": "MIT"
+}
