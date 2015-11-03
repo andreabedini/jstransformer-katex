@@ -18,5 +18,6 @@
     "coverage": "test-jstransformer coverage",
     "test": "test-jstransformer"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "andreabedini/jstransformer-katex"
 }
